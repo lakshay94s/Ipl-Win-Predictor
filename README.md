@@ -10,9 +10,6 @@ insights and predictions based on historical match data.
   - [IPL Recommender System](#ipl-recommender-system)
 - [Datasets](#datasets)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -67,6 +64,6 @@ Both projects use the following datasets:
 To use these projects, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/IPL-Projects.git
+git clone https://github.com/lakshay94s/Ipl-Win-Predictor.git
 cd IPL-Projects
 pip install -r requirements.txt
